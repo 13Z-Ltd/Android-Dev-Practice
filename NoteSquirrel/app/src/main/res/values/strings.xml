@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Note Squirrel</string>
+    <string name="edit_text_hint">Enter your text here.</string>
+    <string name="save">Save</string>
+    <string name="toast_cant_save">Unable to save note. Is there sufficient space?</string>
+    <string name="title_activity_image">Note Squirrel</string>
+    <string name="password_image">PassPoint Image</string>
+    <string name="storing_data">storing...</string>
+    <string name="lock">Lock</string>
+    <string name="menu_passpoints_reset">Passpoints reset</string>
+    <string name="replace_image">Replace Image</string>
+    <string name="replace_lock_image">Replace Lock Image</string>
+</resources>
